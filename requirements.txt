@@ -1,0 +1,17 @@
+Vega board – the main microcontroller )
+
+Touch sensor – to detect taps or long presses
+
+RGB LED  – to show different light signals
+
+Servo motor (SG90) – to raise and rotate a small flag or marker
+
+Jumper wires – to connect everything
+
+USB cable  – to power the Vega board
+
+Small flag (paper and stick) – attach to the servo to show task is done
+
+Breadboard  – to make temporary connections
+
+Cardboard  base – to mount everything neatly on the desk
